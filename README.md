@@ -2,14 +2,14 @@
 
 ## Introduction
 
-This project is a simple face mask detection system using computer vision. The system captures video from the user's camera, detects faces, and predicts whether the person is wearing a mask or not. The model used for mask detection can be replaced with your own pre-trained model or a publicly available one.
+This project is a simple face mask detection system using computer vision and CNN algorithm. The system captures video from the user's camera, detects faces, and predicts whether the person is wearing a mask or not. The model used for mask detection can be replaced with your own pre-trained model or a publicly available one.
 
 ## Requirements
 
 - Python (>=3.6)
 - OpenCV (`pip install opencv-python`)
 - NumPy (`pip install numpy`)
-- Pre-trained face detection model (e.g., Haarcascades)
+- Pre-trained face detection model
 - Pre-trained face mask detection model (replace with your own or use a pre-trained one)
 
 ## Installation
