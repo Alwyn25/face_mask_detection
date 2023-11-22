@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a simple face mask detection system using computer vision and CNN algorithm. The system captures video from the user's camera, detects faces, and predicts whether the person is wearing a mask or not. The model used for mask detection can be replaced with your own pre-trained model or a publicly available one.
+This project is a simple face mask detection system using computer vision and CNN algorithm. The system captures video from the user's camera, detects faces, and predicts whether the person is wearing a mask or not. The model used for mask detection can be replaced with your own pre-trained model or a publicly available one. All my codes and Datasets are provided in the kaggle, Link: https://www.kaggle.com/code/alwynsebastian/face-mask-detection-from-video-and-image
 
 ## Requirements
 
